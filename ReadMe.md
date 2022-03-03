@@ -1,4 +1,4 @@
-# Official implementation of paper Importance-based down sampling augments image classification and object detection tasks in convolutional neural networks
+# Official implementation of paper "Importance-based down sampling augments image classification and object detection tasks in convolutional neural networks"
 ## Credits
 Credits to zgcr. (2020). pytorch-ImageNet-CIFAR-COCO-VOC-training. Github.[https://github.com/zgcr/simpleAICV-pytorch-ImageNet-COCO-training] for his outstanding work!
 
